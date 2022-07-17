@@ -11,4 +11,14 @@ Image set of the first person is shown below.
 
 For the training image set we take first three expression photographs of the first five persons (shown in the green rectangle in the picture below). Other images are testing images. The goal of the algorithms is to recognize whether a person on the image is in the database (training image set) or not.
 
-![FacesOG2](https://user-images.githubusercontent.com/92053362/179402105-dfb93ea8-b324-43bd-8f84-6a1cfce898f5.png)
+![preza_pca_2](https://user-images.githubusercontent.com/92053362/179402198-25d3e2f0-d8be-4591-a8a1-39944abdb07d.png)
+
+The results of each algorithm is shown below.
+
+### Eigenfaces results
+
+![preza_pca_3](https://user-images.githubusercontent.com/92053362/179402275-61a7ac78-d4de-4c98-8460-f37d5a6e67af.png)
+
+### Tensorfaces results
+
+![tensorfacestest](https://user-images.githubusercontent.com/92053362/179402291-ec3bb4fd-eccf-4a0b-8631-edd8e1601351.png)
