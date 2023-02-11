@@ -1,4 +1,4 @@
-# Face-Recognition-Algorithms
+# Face Recognition Algorithms
 
 This repository includes Eigenfaces and T-SVD algorithms for face recognition. These numerical methods use different matrix and tensor singular decompositions which are explained in detail in the scientific article "Facial Recognition using Tensor-Tensor Decompositions" by K. Braman and R. C. Hoover.
 
